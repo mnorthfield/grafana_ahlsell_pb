@@ -1,0 +1,4 @@
+vendor/
+artNr.yaml
+cron.log
+.env

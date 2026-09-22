@@ -1,0 +1,89 @@
+#Phasebox
+ahlsell: 
+  - "2700224": "Halo"
+  - "2700889": "Luna"
+  - "2701000": "Entity"
+  - "2701028E": "Entity  Compact"
+  - "2700587": "DEFA Power"
+  - "9899001": "PhaseBox Pro 2.0S"
+  - "9899005": "PhaseBox Pro 2.0R"
+  - "2700794": "PB 2.0Se"
+  - "2700793": "PB 2.0Re"
+  - "9899009": "PhaseBox Klient 2.0S"
+  - "2700449": "Dawn"
+  - "2701462": "Pb3 Uttag"
+  - "2701463": "Pb3 8m"
+  - "2701464": "Pb3 4m"
+  - "2701002E": "Entity kabel"
+  - "9850032": "BHC - Lastbalansering"
+  - "9850031": "BHC"
+  - "2701029E": "Entity C 8m"
+  - "2700955": "Entity Home"
+  - "2700959": "Easee"
+  - "2701130": "Doepke 8m"
+  - "2701131": "Doepke 4m"
+  - "2700998": "Witty Uttag"
+
+#SLC
+slc:
+  - "7473240": "SG Junistar Eco iso"
+  - "7470543": "HAL Core smart"
+  - "7476994": "PLEJD DWN-01"
+  - "7464252": "AC aLED + ID 600"
+  - "7475863": "HAL Optic G2 ISO" 
+  - "7473101": "SG Junistar Lux"
+  - "7403041": "1-fas Optic Focus GU10"
+  - "7402310": "3-fas design light"
+  - "7402954": "3-fas HAL Optic M"
+
+#Elektroskutt
+skutten: 
+  - "1402010": "Rörböj 16mm"
+  - "1402011": "Rörböj 20mm"
+  - "1402081": "Pluggs Svart"
+  - "1402080": "Pluggs Vit"
+  - "1402016": "Klicks"
+  - "1402020": "Klicks V2"
+  - "1401016": "Dutts 16mm 100p"
+  - "1401050": "Dutts 16mm 50p"
+  - "1401020": "Dutts 20mm 35p"
+  - "1400929": "Montagelist ABB"
+
+#Plejd
+plejd: 
+  - "1377701": "DIM-01"
+  - "1377703": "DIM-02"
+  - "1377709": "REL-01"
+  - "1377706": "REL-02"
+  - "7984810": "LED-10"
+
+#ELFA
+elfa: 
+  - "765051": "Väggskena Vit 1980mm"
+  - "765076": "Hängskena Vit 2012mm"
+  - "103333": "Konsol K27"
+  - "103335": "Konsol K37"
+
+#Brytare
+brytare: 
+  - "2112128": "Schnider enfas 10a 1,5mm"
+  - "2142111": "Garo enfas 10a 1,5mm"
+  - "2106817": "Hager enfas 10a 1,5mm"
+  - "2101208": "ABB enfas 10a 1,5mm"
+
+#Golvvärme
+ebeco: 
+  - "8961084": "Cable Kit 500 330W 31M"
+  - "8960853": "Cable Kit 200 330W 31M"
+
+#Kabel
+kabel: 
+  - "0461504": "Nexans EQLQ 3x1,5mm Bobin"
+  - "0461513": "Nexans EQLQ 3x2,5mm Bobin"
+  - "0461553": "Nexans EQLQ 5x2,5mm Bobin"
+  - "1418161": "PM Flex 2xCat6"
+  - "1418100": "PM Flex Fördrag FQ 3x1,5mm 100m"
+  - "1418105": "PM Flex Fördrag FQ 3x2,5mm 100m"
+  - "1418120": "PM Flex Fördrag EQ 3x1,5mm 100m"
+  - "1418130": "PM Flex Fördrag EQ 3x2,5mm 100m"
+  - "1418130": "Nexans N Fördrag FQ 3x1,5mm Box"
